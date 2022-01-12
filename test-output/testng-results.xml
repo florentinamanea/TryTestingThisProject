@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-12T13:19:41 EET" name="Suite0" finished-at="2022-01-12T13:20:07 EET" duration-ms="25879">
+    <groups>
+    </groups>
+    <test started-at="2022-01-12T13:19:41 EET" name="Test0" finished-at="2022-01-12T13:20:07 EET" duration-ms="25879">
+      <class name="testNG.LeftTestNG">
+        <test-method is-config="true" signature="BeforeTest()[pri:0, instance:testNG.LeftTestNG@f0da945]" started-at="2022-01-12T13:19:41 EET" name="BeforeTest" finished-at="2022-01-12T13:19:51 EET" duration-ms="9794" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTest -->
+        <test-method signature="Test()[pri:0, instance:testNG.LeftTestNG@f0da945]" started-at="2022-01-12T13:19:54 EET" name="Test" finished-at="2022-01-12T13:19:56 EET" duration-ms="1884" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method is-config="true" signature="AfterTest()[pri:0, instance:testNG.LeftTestNG@f0da945]" started-at="2022-01-12T13:20:02 EET" name="AfterTest" finished-at="2022-01-12T13:20:06 EET" duration-ms="4769" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTest -->
+      </class> <!-- testNG.LeftTestNG -->
+      <class name="testNG.RightTestNG">
+        <test-method is-config="true" signature="BeforeTest()[pri:0, instance:testNG.RightTestNG@957e06]" started-at="2022-01-12T13:19:51 EET" name="BeforeTest" finished-at="2022-01-12T13:19:54 EET" duration-ms="3257" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTest -->
+        <test-method signature="Test()[pri:0, instance:testNG.RightTestNG@957e06]" started-at="2022-01-12T13:19:56 EET" name="Test" finished-at="2022-01-12T13:20:02 EET" duration-ms="5326" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method is-config="true" signature="AfterTest()[pri:0, instance:testNG.RightTestNG@957e06]" started-at="2022-01-12T13:20:06 EET" name="AfterTest" finished-at="2022-01-12T13:20:07 EET" duration-ms="721" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTest -->
+      </class> <!-- testNG.RightTestNG -->
+    </test> <!-- Test0 -->
+  </suite> <!-- Suite0 -->
+</testng-results>
